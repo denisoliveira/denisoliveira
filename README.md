@@ -64,3 +64,7 @@ I am particularly interested in **mobile architecture**, **performance optimizat
 - 🌐 Website: https://denisoliveira.com  
 - 💼 LinkedIn: https://linkedin.com/in/oliveiradenis  
 - 📫 Email: me@denisoliveira.com
+
+---
+
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=denisoliveira&show_icons=true">
